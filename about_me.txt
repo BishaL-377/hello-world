@@ -1,0 +1,7 @@
+Few Points I will be learning in this internship :
+<br>
+1. How to make a project using python and SQL .
+<br>
+2. How to handle project source codes in the Git / Github.
+<br>
+3. To gain experience how to work in a team of a company.
